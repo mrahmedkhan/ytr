@@ -57,7 +57,7 @@
   {
     "logo": "https://static.wikia.nocookie.net/logo-tv/images/e/e7/Astro_SuperSport_%282006%29.png/revision/latest?cb=20220202084033",
     "name": "Astro SuperSport 5",
-    "link": "https://webudit.hlsjs.ru/lb/premium124/index.m3u8?|Referer=https://weblivehdplay.ru/",
+    "link": "https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F2%2Findex.m3u8&token=fc8ffb98ac304ac1e8387ceefb877f1823d28a68&is_vip=false&verify=1701885600-4zVv0ADkLukD89SO8WMbxtEH8oltcPrSHnOaT73F2p0%3D|Referer=https://live-streamfootball.com/",
     "origin": "",
     "referrer": "",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
