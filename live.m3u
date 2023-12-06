@@ -2,13 +2,13 @@
   {
     "logo": "https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",
     "name": "SSC 1",
-    "link": "https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd",
+    "link": "https://sky.hlsjs.ru/sky/premium65/playlist.m3u8?|referer=https://weblivehdplay.ru/",
     "origin": "",
     "referrer": "",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
     "cookie": "",
     "drmScheme": "widevine",
-    "drmLicense": "e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1"
+    "drmLicense": "DRM"
   },
   {
     "logo": "https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",
